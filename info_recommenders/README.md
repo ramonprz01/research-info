@@ -19,12 +19,12 @@ I've compile the most useful information I could think of regarding the programs
 |      CMU       |  Societal Computing   |    Dec 10    |     Computational Social Science     |              [Fei Fang](https://feifang.info/)               |
 |     UPenn      |        CS Dept        |    Dec 14    |     Computational Social Science     | [Michael Kearns](https://www.cis.upenn.edu/~mkearns/) & [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) |
 |    UChicago    |       Booth PhD       |    Dec 15    |      Econometrics & Statistics       | [Sendhil Mullainathan](https://sendhil.org/), [Panos Toulis](https://www.ptoulis.com/) & [Bryon Aragam](https://www.bryonaragam.com/#) |
-|    Caltech     |    Social Sciences    |    Dec 14    |           Social Sciences            |  [R.M. Michael Alvarez](https://www.rmichaelalvarez.com/) &  |
+|    Caltech     |    Social Sciences    |    Dec 14    |           Social Sciences            |   [R.M. Michael Alvarez](https://www.rmichaelalvarez.com/)   |
 |    Columbia    |         IEOR          |    Dec 14    |           Social Sciences            | [Christian Kroer](http://www.columbia.edu/~ck2945/) & [Shipra Agrawal](http://www.columbia.edu/~sa3305/) |
 |    Berkeley    | School of Information |    Dec 1     | Data Science & Information Economics | [Joshua Blumenstock](http://www.jblumenstock.com/) & [Aditya Parameswaran](https://people.ischool.berkeley.edu/~adityagp/index.html#) |
 |    Cornell     |  Information Science  |    Dec 1     |    Computational Social Sciences     | [Robert D. Kleinberg](http://www.cs.cornell.edu/~rdk/) & [Solon Barocas](https://solon.barocas.org/) |
 
-**Note:** I acknowledge that a university brand can be a very important factor when one hits the job market, that said though, my main interest is in the interdisciplinary nature of these programs and the connecting points between my research agenda and that of the professors above.
+**Note:** My main interest from this list of university is the interdisciplinary nature of these programs and the connecting points between my research agenda and that of the professors above.
 
 
 ## 2. Research Interests
